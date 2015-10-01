@@ -63,4 +63,6 @@ If you want to practice deploying, run the following before continuing:
 cf target -o sandbox -s <USERNAME>
 ```
 
+hello world
+
 Your `USERNAME` is probably the part of your email before the `@`, e.g. `FIRSTNAME.LASTNAME`. When you're done, please `cf delete <APPNAME>`.
